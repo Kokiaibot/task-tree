@@ -1,3 +1,12 @@
+# Task Tree
+
+## 🚀 ワンクリックデプロイ
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Kokiaibot/task-tree)
+
+---
+
+（以下は既存の内容をそのまま残す）
 # Task Tree - タスク管理アプリケーション
 
 階層的なタスク管理システムで、プロジェクトと課題を視覚的に整理できます。
